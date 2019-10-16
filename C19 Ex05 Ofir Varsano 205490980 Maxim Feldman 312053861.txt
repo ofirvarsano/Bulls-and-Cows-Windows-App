@@ -1,0 +1,10 @@
+==========================Exercise Checking Report==========================
+Exercise No...........: 5
+First Student Details.: 205490980 - Ofir Varsano
+Second Student Details: 312053861 - Maxim Feldman
+Delivery Date.........: 18 - September- 2019
+Delivered In Delay....: No
+Delay Reason..........: 
+Visual Studio Version.: 2017
+Comments..............:
+=======================End Exercise Checking Report=========================
